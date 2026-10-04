@@ -15,19 +15,21 @@
 | `download/program-902.wbj` | 附赠 902 程序包（参考用，不强制） |
 | `assets/img/*.jpg` | 四大任务的初始 / 过程 / 完成状态图与搭建图 |
 
-> **比赛专用软件（无大改动）.zip（876 MB）** 超出 GitHub 单文件 100 MB 上限，
-> 因此不放在本仓库，由组委会通过网盘 / 现场拷贝发放。
+> 876 MB 的「比赛专用软件」包已按组委会决定**不下发**，改为提供 **附赠 901 程序包**（.wbj）。
 
-在线直链（raw）：
+## 直连下载（点击即下载，服务端带 Content-Disposition: attachment）
+
+全部资源走 GitHub Release，不使用网盘中转：
 
 ```
-https://raw.githubusercontent.com/tlstudio-zhuanye/latiaocup-2027/main/download/latiaocup-2026-2027-rules.pdf
-https://raw.githubusercontent.com/tlstudio-zhuanye/latiaocup-2027/main/download/daily-map-viewer.exe
-https://raw.githubusercontent.com/tlstudio-zhuanye/latiaocup-2027/main/download/program-901.wbj
-https://raw.githubusercontent.com/tlstudio-zhuanye/latiaocup-2027/main/download/program-902.wbj
+https://github.com/tlstudio-zhuanye/latiaocup-2027/releases/latest/download/latiaocup-2026-2027-rules.pdf
+https://github.com/tlstudio-zhuanye/latiaocup-2027/releases/latest/download/daily-map-viewer.exe
+https://github.com/tlstudio-zhuanye/latiaocup-2027/releases/latest/download/program-901.wbj
+https://github.com/tlstudio-zhuanye/latiaocup-2027/releases/latest/download/program-902.wbj
 ```
 
-整包下载：`https://github.com/tlstudio-zhuanye/latiaocup-2027/archive/refs/heads/main.zip`
+Release 页：<https://github.com/tlstudio-zhuanye/latiaocup-2027/releases/latest>
+整包（仓库源码+图片）：`https://github.com/tlstudio-zhuanye/latiaocup-2027/archive/refs/heads/main.zip`
 
 ## 赛事要点
 
